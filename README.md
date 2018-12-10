@@ -28,3 +28,5 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 2.1 [Remove Dups](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.1-Remove-Dups/removeDups.go)
 
 2.2 [Return Kth to Last](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.2-Return-Kth-to-Last/returnKthToLast.go)
+
+2.3 [Delete Middle Node](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.3-Delete-Middle-Node/deleteMiddleNode.go)
