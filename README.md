@@ -16,6 +16,7 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 1.6 [String Compression](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.6-String-Compression/stringCompression.go)
 
 1.7 Not Implemented Yet
+
 1.8 Not Implemented Yet
 
 1.9 [String Rotation](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.9-String-Rotation/stringRotation.go)
