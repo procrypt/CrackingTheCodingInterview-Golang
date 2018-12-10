@@ -1,2 +1,29 @@
 # Cracking The Coding Interview - Golang
-Solutions to Cracking The Coding Interview Questions in Golang
+Solutions to Cracking The Coding Interview Questions in **Golang**
+
+## Chapter 1
+#### Arrays and Strings
+1.1 [IsUnique](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.1-IsUnique/isUnique.go)
+
+1.2 [Check Permutation](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.2-Check-Permutation/checkPermutation.go)
+
+1.3 [URLify](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.3-URLify/URLify.go)
+
+1.4 [Palindrome Permutation](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.4-Palindrome-Permutation/palindromePermutation.go)
+
+1.5 [One Away](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.5-One-Away/oneAway.go)
+
+1.6 [String Compression](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.6-String-Compression/stringCompression.go)
+
+1.7 Not Implemented Yet
+1.8 Not Implemented Yet
+
+1.9 [String Rotation](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.9-String-Rotation/stringRotation.go)
+
+## Chapter 2
+#### Linked List
+[Singly Linked List Implementation](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/SinglyLinkedList/singlyLinkedList.go)
+
+2.1 [Remove Dups](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.1-Remove-Dups/removeDups.go)
+
+2.2 [Return Kth to Last](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.2-Return-Kth-to-Last/returnKthToLast.go)
