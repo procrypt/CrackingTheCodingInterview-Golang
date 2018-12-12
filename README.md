@@ -15,9 +15,9 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 
 1.6 [String Compression](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.6-String-Compression/stringCompression.go)
 
-1.7 Not Implemented Yet
+1.7 Not Yet Implemented 
 
-1.8 Not Implemented Yet
+1.8 Not Yet Implemented 
 
 1.9 [String Rotation](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-1-Arrays-and-Strings/1.9-String-Rotation/stringRotation.go)
 
@@ -30,3 +30,5 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 2.2 [Return Kth to Last](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.2-Return-Kth-to-Last/returnKthToLast.go)
 
 2.3 [Delete Middle Node](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.3-Delete-Middle-Node/deleteMiddleNode.go)
+
+2.4 [Partition](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.4-Partition/Partition.go)
