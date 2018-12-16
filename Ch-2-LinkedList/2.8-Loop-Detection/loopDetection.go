@@ -17,7 +17,7 @@ eg:
 1->2->3->4->5->6->7
             \____/
 
-let u assume 7 is pointing to 5 the previous node, not to NIL. The runner will traverse the linked list as follows
+Let us assume 7 is pointing to 5 the previous node, not to NIL. The runner will traverse the linked list as follows
 
 R1  R2
 1	2
@@ -40,7 +40,6 @@ R1	R2
 6	7
 */
 
-
 package main
 
 import (
@@ -50,7 +49,7 @@ import (
 
 // Method 2
 func Loop(l *linkedList.LinkedList) *linkedList.Node {
-	if l.Head == nil  {
+	if l.Head == nil {
 		return nil
 	}
 	slow := l.Head
@@ -63,14 +62,14 @@ func Loop(l *linkedList.LinkedList) *linkedList.Node {
 		if slow == fast {
 			return nil
 		}
-		slow = slow.Next			// Moves one jump
-		fast = fast.Next.Next		// Moves two jumps
+		slow = slow.Next      // Moves one jump
+		fast = fast.Next.Next // Moves two jumps
 	}
 
 	// There is mathematical solution for it. I'm not sure if I understand that :/
 	// https://stackoverflow.com/questions/2936213/explain-how-finding-cycle-start-node-in-cycle-linked-list-work
 	// https://www.youtube.com/watch?v=-YiQZi3mLq0
-	
+
 	traverse := l.Head
 	for slow != traverse {
 		slow = slow.Next
@@ -78,7 +77,6 @@ func Loop(l *linkedList.LinkedList) *linkedList.Node {
 	}
 	return slow
 }
-
 
 func main() {
 	l := linkedList.LinkedList{}
