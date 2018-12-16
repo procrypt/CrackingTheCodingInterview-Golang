@@ -32,3 +32,11 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 2.3 [Delete Middle Node](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.3-Delete-Middle-Node/deleteMiddleNode.go)
 
 2.4 [Partition](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.4-Partition/Partition.go)
+
+2.5 [Sum Lists](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.5-Sum-Lists/sumLists.go)
+
+2.6 [Palindrome](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.6-Palindrome/palindrome.go)
+
+2.7 Not Yet Implemented
+
+2.8 [Loop Detection](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.8-Loop-Detection/loopDetection.go)
