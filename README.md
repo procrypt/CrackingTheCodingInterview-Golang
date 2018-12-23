@@ -40,3 +40,13 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 2.7 Not Yet Implemented
 
 2.8 [Loop Detection](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.8-Loop-Detection/loopDetection.go)
+
+## Chapter 3
+#### Stacks and Queues
+[Stack Implementation](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/Stack/stack.go)
+
+[Queue Implementation](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/Queue/queue.go)
+
+3.1 Not Yet Implemented
+
+3.2 [Stack Min](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/3.2-Stack-Min/stackMin.go)
