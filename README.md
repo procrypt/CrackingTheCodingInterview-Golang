@@ -54,3 +54,5 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 3.3 [Stack of Plates](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/3.3-Stack-of-Plates/stackOfPlates.go)
 
 3.4 [Queue Via Stack](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/3.4-Queue-via-Stacks/queueViaStacks.go)
+
+3.5 [Sort Stack](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/3.5-Sort-Stack/sortStack.go)
