@@ -5,8 +5,14 @@ type Stack struct {
 	Container []interface{}
 }
 
-func(s *Stack) Pop() {
+func(s *Stack) Size() int {
+	return len(s.Container)
+}
+
+func(s *Stack) Pop() interface{} {
+	pop := s.Container[len(s.Container)-1]
 	s.Container = append(s.Container[:len(s.Container)-1])
+	return pop
 }
 
 func(s *Stack) Push(value interface{}) {
