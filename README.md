@@ -50,3 +50,7 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 3.1 Not Yet Implemented
 
 3.2 [Stack Min](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/3.2-Stack-Min/stackMin.go)
+
+3.3 [Stack of Plates](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/3.3-Stack-of-Plates/stackOfPlates.go)
+
+3.4 [Queue Via Stack](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch3-Stacks-and-Queues/3.4-Queue-via-Stacks/queueViaStacks.go)
