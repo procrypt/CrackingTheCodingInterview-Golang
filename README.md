@@ -37,7 +37,7 @@ Solutions to Cracking The Coding Interview Questions in **Golang**
 
 2.6 [Palindrome](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.6-Palindrome/palindrome.go)
 
-2.7 Not Yet Implemented
+2.7 [Intersection](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.7-Intersection/intersection.go)
 
 2.8 [Loop Detection](https://github.com/procrypt/CrackingTheCodingInterview-Golang/blob/master/Ch-2-LinkedList/2.8-Loop-Detection/loopDetection.go)
 
